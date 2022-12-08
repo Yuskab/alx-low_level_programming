@@ -2,12 +2,11 @@
 
 /**
  * main - Entry point
- *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	iny i;
+	int i;
 	char c;
 	long int 1;
 	long long int 11;
