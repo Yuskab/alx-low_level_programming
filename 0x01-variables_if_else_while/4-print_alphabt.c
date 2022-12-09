@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print all except e and q 
+ * main - print all except e and q
  * Return: Always 0
  */
 int main(void)
@@ -17,3 +17,4 @@ int main(void)
 
 	return (0);
 }
+ 
